@@ -11,6 +11,7 @@
 		116130D22645959400F50102 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 116130D12645959400F50102 /* ContentView.swift */; };
 		116130D42645959500F50102 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 116130D32645959500F50102 /* Assets.xcassets */; };
 		116130D72645959500F50102 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 116130D62645959500F50102 /* Preview Assets.xcassets */; };
+		116130DF26459A3F00F50102 /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 116130DE26459A3F00F50102 /* UserSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		116130D32645959500F50102 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		116130D62645959500F50102 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		116130D82645959500F50102 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		116130DE26459A3F00F50102 /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				116130CF2645959400F50102 /* PropertyWrappersApp.swift */,
 				116130D12645959400F50102 /* ContentView.swift */,
+				116130DE26459A3F00F50102 /* UserSettings.swift */,
 				116130D32645959500F50102 /* Assets.xcassets */,
 				116130D82645959500F50102 /* Info.plist */,
 				116130D52645959500F50102 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				116130D22645959400F50102 /* ContentView.swift in Sources */,
+				116130DF26459A3F00F50102 /* UserSettings.swift in Sources */,
 				116130D02645959400F50102 /* PropertyWrappersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
